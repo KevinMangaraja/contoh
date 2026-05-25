@@ -14,8 +14,8 @@ site:
   #   favicon: favicon.ico
   #   logo: site_logo.png
 
-  toc:
-    - file: src/index.md
-    - file: src/materi/lagi.md
-      children:
-        - file: src/materi/non.ipynb
+toc:
+  - file: src/index.md
+  - file: src/materi/lagi.md
+    children:
+      - file: src/materi/non.ipynb
