@@ -3,11 +3,17 @@ version: 1
 project:
   id: 6fb90d5c-baea-4781-88c0-f0eff948743e
 
+  # authors:
+  #   - name: Kevin
+  #     email: kevin@gmail.com
+  #     github: kevinmangaraja
+
   toc:
     - file: src/index.md
-    - file: src/materi/lagi.md
-      children:
-        - file: src/materi/non.ipynb
-
+    - file: src/materi/1.non.ipynb
+    - file: src/nambah/ifix.ipynb
+    - file: src/sorting/sorting.ipynb
+    - file: src/hashing/hashing.ipynb
+    - file: src/soal/jawabn_soal.ipynb
 site:
   template: book-theme
