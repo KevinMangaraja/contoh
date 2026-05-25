@@ -16,3 +16,6 @@ site:
 
   toc:
     - file: src/index.md
+    - file: src/materi/lagi.md
+      children:
+        - file: src/materi/non.ipynb
