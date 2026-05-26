@@ -14,6 +14,8 @@ project:
     - file: src/nambah/ifix.ipynb
     - file: src/sorting/sorting.ipynb
     - file: src/hashing/hashing.ipynb
+    - file: src/hashing/merged_and_shell sort.ipynb
+    - file: src/tree/konsep_tree.ipynb
     - file: src/soal/jawabn_soal.ipynb
 site:
   template: book-theme
