@@ -12,10 +12,12 @@ project:
     - file: src/index.md
     - file: src/materi/1.non.ipynb
     - file: src/nambah/ifix.ipynb
-    - file: src/sorting/sorting.ipynb
-    - file: src/hashing/hashing.ipynb
+    - file: src/sorting/sorting1.ipynb
+    - file: src/hashing/catatan_hashing.ipynb
     - file: src/hashing/merged_and_shell sort.ipynb
     - file: src/tree/konsep_tree.ipynb
     - file: src/soal/jawabn_soal.ipynb
+    - file: src/sorting/sorting.ipynb
+    - file: src/hashing/hashing.ipynb
 site:
   template: book-theme
