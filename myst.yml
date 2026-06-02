@@ -16,9 +16,13 @@ project:
     - file: src/hashing/catatan_hashing.ipynb
     - file: src/hashing/merged_and_shell sort.ipynb
     - file: src/searching/searching.ipynb
+    - file: src/link_list/link_list.ipynb
     - file: src/tree/konsep_tree.ipynb
     - file: src/soal/jawabn_soal.ipynb
     - file: src/sorting/sorting.ipynb
     - file: src/hashing/hashing.ipynb
+    - file: src/link_list/Ordered List.ipynb
+    - file: src/link_list/Unordered List.ipynb
+    - file: src/tree/Tree.ipynb
 site:
   template: book-theme
